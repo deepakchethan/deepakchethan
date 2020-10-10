@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## 👨‍💻 About Me!
+# 👨‍💻 About Me!
 
 I'm a full stack web developer and technologist that enjoys automation.
 
