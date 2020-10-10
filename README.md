@@ -1,6 +1,6 @@
 # 👨‍💻 About Me!
 
-I'm a full stack web developer and technologist that enjoys automation.
+I'm a full stack web developer and technologist who enjoys automation.
 
 This account is for my personal projects and involvement with various oss projects.
 
