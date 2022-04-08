@@ -2,7 +2,7 @@
 
 I'm a full stack web developer and a technologist who enjoys automation.
 
-This account is for my personal projects and involvement with various oss projects.
+This account is for my personal projects and involvement with oss projects.
 
 ## 🤔 Where to find me?
 
